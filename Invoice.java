@@ -19,7 +19,6 @@ public class Invoice {
     private String status;
     private double amount;
 
-    // Getters and Setters
     public int getId() { return id; }
     public void setId(int id) { this.id = id; }
     public String getName() { return name; }
